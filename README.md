@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 
 Run the app in the xampp environment or apache server
-Open [http://localhost/frontend] to view it in the browser. It has a simple html, css and js
+Open [http://localhost/frontend] to view it in the browser. It has a simple html, css and js.
 For simplicity, the frontend is designed to received just max. of 6 items.
 
 ### `npm run test`
